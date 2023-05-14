@@ -7,9 +7,9 @@
 
 **In Feed Page it show the posts of all the user which are follow by the currUser**
 
-**And currUser can see to whom it is following in "You Are Following" Section**
+**And currUser can see to whom it is following in "You Are Following" Section" Or Unfollow Them**
 
-**And currUser see Suggestions for following in "Suggested For You" Section**
+**And currUser see Suggestions for following in "Suggested For You" Section and Follow them**
 
 ![Screenshot 2023-05-14 142021](https://github.com/theshinegupta/Social_Media_Platform/assets/78649993/a7ab6979-dbc3-4c80-ab6d-6bff980c68da)
 
@@ -19,6 +19,12 @@
 
 **User Can Update its Profile in Update My Profile Section**
 ![Screenshot 2023-05-14 142851](https://github.com/theshinegupta/Social_Media_Platform/assets/78649993/04ef98fa-c049-4978-8f99-a34e012ff94f)
+
+
+**User Can See Other user Profile By Clicking on UserName in the right section of the feed page**
+![Screenshot 2023-05-14 144345](https://github.com/theshinegupta/Social_Media_Platform/assets/78649993/c902054d-3fc2-46df-a01a-784c75f52bef)
+
+
 
 
 
