@@ -1,4 +1,5 @@
-#Social Media Platform
+# SOCIAL MEDIA PLATFORM
+
 **The social media platform is construct using a combination of front-end and back-end technologies such as HTML, SCSS, JavaScript, React JS ,Redux Toolkit ,Node JS, Express JS, and MongoDB, CLOUDINARY.**
 
 
