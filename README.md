@@ -1,5 +1,8 @@
-**If User Have an account then it can login otherwise signup with thier credentials**
+**The social media platform is construct using a combination of front-end and back-end technologies such as HTML, SCSS, JavaScript, React JS ,Redux Toolkit ,Node JS, Express JS, and MongoDB, CLOUDINARY.**
 
+
+
+**If User Have an account then it can login otherwise signup with thier credentials**
 ![Screenshot 2023-05-14 141105](https://github.com/theshinegupta/Social_Media_Platform/assets/78649993/e49c25ac-8da9-442f-988c-13c54ed62534)
 ![Screenshot 2023-05-14 141305](https://github.com/theshinegupta/Social_Media_Platform/assets/78649993/ea962897-80a2-4682-a873-0254ecaeeb26)
 
